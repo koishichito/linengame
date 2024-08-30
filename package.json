@@ -1,6 +1,9 @@
 {
   "name": "linen-service-game",
   "version": "0.1.0",
+  "homepage": "https://koishichito.github.io/linengame",
+  // ... 他の設定
+}
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
