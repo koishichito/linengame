@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/linengame/static/css/main.2fc9fe4c.css",
-    "main.js": "/linengame/static/js/main.d36dd59f.js",
+    "main.js": "/linengame/static/js/main.70a7f200.js",
     "static/js/453.9699f0b2.chunk.js": "/linengame/static/js/453.9699f0b2.chunk.js",
     "index.html": "/linengame/index.html",
     "main.2fc9fe4c.css.map": "/linengame/static/css/main.2fc9fe4c.css.map",
-    "main.d36dd59f.js.map": "/linengame/static/js/main.d36dd59f.js.map",
+    "main.70a7f200.js.map": "/linengame/static/js/main.70a7f200.js.map",
     "453.9699f0b2.chunk.js.map": "/linengame/static/js/453.9699f0b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fc9fe4c.css",
-    "static/js/main.d36dd59f.js"
+    "static/js/main.70a7f200.js"
   ]
 }
